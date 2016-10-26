@@ -13,4 +13,4 @@ help:
 	@cat Makefile
 
 install: .env composer.phar
-	
+	./composer.phar install
