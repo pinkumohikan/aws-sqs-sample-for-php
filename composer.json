@@ -1,6 +1,7 @@
 {
     "require": {
-        "aws/aws-sdk-php": "2.*"
+        "aws/aws-sdk-php": "2.*",
+        "vlucas/phpdotenv": "^2.0"
     },
     "autoload": {
         "psr-4": {
